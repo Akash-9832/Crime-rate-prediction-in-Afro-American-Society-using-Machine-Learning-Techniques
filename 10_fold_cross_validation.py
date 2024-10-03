@@ -365,7 +365,7 @@ if(m>=1 and m<=10):
     for i in range(194):
         if(l118[i]==1 and l[i]==1):
             tp=tp+1
-        elif(l118[i]==1 and l[i]==0):
+        elif(l118[i]==0 and l[i]==0):
             tn=tn+1
         elif(l118[i]==1 and l[i]==0):
             fn=fn+1
