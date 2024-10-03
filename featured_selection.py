@@ -329,7 +329,7 @@ fn=0
 for i in range(1994-n):
     if(l118[i]==1 and l[i]==1):
         tp=tp+1
-    elif(l118[i]==0 and l[i]==0):
+    elif(l118[i]==1 and l[i]==0):
         tn=tn+1
     elif(l118[i]==1 and l[i]==0):
         fn=fn+1
