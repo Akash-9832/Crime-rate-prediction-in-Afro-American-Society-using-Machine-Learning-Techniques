@@ -7,4 +7,4 @@ of data-driven models in dealing with critical issues within communities, like c
 
 _Keywords- Multiple Linear Regression, Logistic Regression, Confusion Matrix, 10 Fold Cross Validation_
 
-My Full Paper Link IS : https://www.afjbs.com/issue-content/crime-rate-prediction-in-afro-american-society-using-machine-learning-technique-6330
+View my full paper in: https://www.afjbs.com/issue-content/crime-rate-prediction-in-afro-american-society-using-machine-learning-technique-6330
