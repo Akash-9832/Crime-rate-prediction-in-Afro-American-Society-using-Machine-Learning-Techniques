@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 24 15:21:51 2024
-
-@author: Debanjan Paul
-"""
 
 import math
 import pandas as pd
